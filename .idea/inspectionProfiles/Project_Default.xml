@@ -1,0 +1,93 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="268" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="66">
+            <item index="0" class="java.lang.String" itemvalue="pytest" />
+            <item index="1" class="java.lang.String" itemvalue="et-xmlfile" />
+            <item index="2" class="java.lang.String" itemvalue="numpy" />
+            <item index="3" class="java.lang.String" itemvalue="openpyxl" />
+            <item index="4" class="java.lang.String" itemvalue="pandas" />
+            <item index="5" class="java.lang.String" itemvalue="mccabe" />
+            <item index="6" class="java.lang.String" itemvalue="sklearn" />
+            <item index="7" class="java.lang.String" itemvalue="xgboost" />
+            <item index="8" class="java.lang.String" itemvalue="flake8" />
+            <item index="9" class="java.lang.String" itemvalue="pathspec" />
+            <item index="10" class="java.lang.String" itemvalue="regex" />
+            <item index="11" class="java.lang.String" itemvalue="appdirs" />
+            <item index="12" class="java.lang.String" itemvalue="typed-ast" />
+            <item index="13" class="java.lang.String" itemvalue="black" />
+            <item index="14" class="java.lang.String" itemvalue="mypy-extensions" />
+            <item index="15" class="java.lang.String" itemvalue="jinja2" />
+            <item index="16" class="java.lang.String" itemvalue="koalas" />
+            <item index="17" class="java.lang.String" itemvalue="paramiko" />
+            <item index="18" class="java.lang.String" itemvalue="pysftp" />
+            <item index="19" class="java.lang.String" itemvalue="cffi" />
+            <item index="20" class="java.lang.String" itemvalue="querystring-parser" />
+            <item index="21" class="java.lang.String" itemvalue="azure-mgmt-keyvault" />
+            <item index="22" class="java.lang.String" itemvalue="joblib" />
+            <item index="23" class="java.lang.String" itemvalue="isodate" />
+            <item index="24" class="java.lang.String" itemvalue="ptyprocess" />
+            <item index="25" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="26" class="java.lang.String" itemvalue="tabulate" />
+            <item index="27" class="java.lang.String" itemvalue="dtaml" />
+            <item index="28" class="java.lang.String" itemvalue="pickleshare" />
+            <item index="29" class="java.lang.String" itemvalue="msrestazure" />
+            <item index="30" class="java.lang.String" itemvalue="pyspark" />
+            <item index="31" class="java.lang.String" itemvalue="wcwidth" />
+            <item index="32" class="java.lang.String" itemvalue="azure-mgmt-resource" />
+            <item index="33" class="java.lang.String" itemvalue="ndg-httpsclient" />
+            <item index="34" class="java.lang.String" itemvalue="py4j" />
+            <item index="35" class="java.lang.String" itemvalue="pyasn1" />
+            <item index="36" class="java.lang.String" itemvalue="requests" />
+            <item index="37" class="java.lang.String" itemvalue="azure-common" />
+            <item index="38" class="java.lang.String" itemvalue="python-editor" />
+            <item index="39" class="java.lang.String" itemvalue="azure-mgmt-authorization" />
+            <item index="40" class="java.lang.String" itemvalue="great-expectations" />
+            <item index="41" class="java.lang.String" itemvalue="requests-oauthlib" />
+            <item index="42" class="java.lang.String" itemvalue="ipython-genutils" />
+            <item index="43" class="java.lang.String" itemvalue="backports.weakref" />
+            <item index="44" class="java.lang.String" itemvalue="certifi" />
+            <item index="45" class="java.lang.String" itemvalue="coverage" />
+            <item index="46" class="java.lang.String" itemvalue="adal" />
+            <item index="47" class="java.lang.String" itemvalue="databricks-cli" />
+            <item index="48" class="java.lang.String" itemvalue="iniconfig" />
+            <item index="49" class="java.lang.String" itemvalue="pexpect" />
+            <item index="50" class="java.lang.String" itemvalue="azure-graphrbac" />
+            <item index="51" class="java.lang.String" itemvalue="mlflow" />
+            <item index="52" class="java.lang.String" itemvalue="prometheus-flask-exporter" />
+            <item index="53" class="java.lang.String" itemvalue="mistune" />
+            <item index="54" class="java.lang.String" itemvalue="msrest" />
+            <item index="55" class="java.lang.String" itemvalue="termcolor" />
+            <item index="56" class="java.lang.String" itemvalue="backcall" />
+            <item index="57" class="java.lang.String" itemvalue="azureml-core" />
+            <item index="58" class="java.lang.String" itemvalue="azure-mgmt-core" />
+            <item index="59" class="java.lang.String" itemvalue="backports.tempfile" />
+            <item index="60" class="java.lang.String" itemvalue="azure-mgmt-containerregistry" />
+            <item index="61" class="java.lang.String" itemvalue="azure-mgmt-storage" />
+            <item index="62" class="java.lang.String" itemvalue="pytz" />
+            <item index="63" class="java.lang.String" itemvalue="azure-core" />
+            <item index="64" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="65" class="java.lang.String" itemvalue="great_expectations" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SqlErrorHandlingInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SqlNoDataSourceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
